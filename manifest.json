@@ -6,7 +6,7 @@
   "description": "Extension to block inappropriate websites and inappropriate contents in websites",
   "browser_specific_settings": {
     "gecko": {
-      "id": "stop_bluishhy@mohammadkh.com"
+      "id": "{e56e1b08-b3d4-4714-8183-06259d97cde9}"
     }
   },
   "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
