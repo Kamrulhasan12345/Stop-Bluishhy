@@ -4,6 +4,11 @@
   "author": "A Muslim",
   "manifest_version": 2,
   "description": "Extension to block inappropriate websites and inappropriate contents in websites",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "stop_bluishhy@mohammadkh.com"
+    }
+  },
   "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
   "background": {
     "page": "src/html/background-page.html"
