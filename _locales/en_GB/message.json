@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Stop Bluishhy",
+    "description": "Extension to block inappropriate contents."
+  },
+  "appDesc": {
+    "message": "This extension blocks inappropriate contents.",
+    "description": "Nowadays, inappropriateness has been spread the whole world. But these contents are immoral according to many reasearches and also by Islam. So I made this extension to help you guys wanting to be safe from these kinda' contents. And yes all credit for the hosts list goes to this github repo: https://github.com/Clefspeare13/pornhosts"
+  }
+}
