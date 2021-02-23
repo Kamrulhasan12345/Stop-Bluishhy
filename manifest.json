@@ -11,6 +11,10 @@
       "id": "{e56e1b08-b3d4-4714-8183-06259d97cde9}"
     }
   },
+  "images": {
+    "48": "images/icon-48.png",
+    "96": "images/icon-96.png"
+  },
   "background": {
     "page": "src/html/background-page.html"
   },
